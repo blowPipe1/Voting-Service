@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13cc3c1d-f412-4e84-852d-9c98ac79fdc7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/handlers/ThankYouHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/handlers/VoteHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/thankyou.ftlh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/handlers/ResultsHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/results.ftlh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/candidates.ftlh" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/candidates.ftlh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +84,7 @@
       <workItem from="1765117532632" duration="955000" />
       <workItem from="1765123685377" duration="385000" />
       <workItem from="1765125488429" duration="606000" />
+      <workItem from="1765131233895" duration="493000" />
     </task>
     <servers />
   </component>

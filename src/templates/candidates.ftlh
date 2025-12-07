@@ -21,7 +21,7 @@
         </#list>
     </main>
     <p>-------------------------------------------------------</p>
-    <a class="back flex align-center" href="#">Show total votes</a>
+    <a class="back flex align-center" href="/results">Show total votes</a>
 </div>
 </body>
 </html>
